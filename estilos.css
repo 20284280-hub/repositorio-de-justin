@@ -1,7 +1,7 @@
 body {
     font-family: arial,sans-serif;
     text-align: center;
-    background-color: lightblue;
+    background-color: rgb(176, 189, 194);
 
 }
 
@@ -17,25 +17,25 @@ p {
 button{
     padding: 10px;
     margin: 5px;
-    color: rgb(120, 34, 160);
+    color: rgb(241, 235, 243);
     border: none;
     border-radius: 5px;
     cursor:pointer;
 
 }
 
-#rojo{
-    background-color:rgb(214, 178, 58)
+#naranja{
+    background-color:rgb(243, 189, 13)
 
 }
 
-#azul{
-    background-color: lightblue;
+#negro{
+    background-color: rgb(5, 19, 22);
 
 }
 
-#verde{
-    background-color: lightgreen;
+#amarillo{
+    background-color: rgb(253, 239, 46);
 }
 
 
