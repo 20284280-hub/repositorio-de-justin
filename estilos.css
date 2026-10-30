@@ -1,0 +1,42 @@
+body {
+    font-family: arial,sans-serif;
+    text-align: center;
+    background-color: lightblue;
+
+}
+
+contenedor {
+margin-top: 80px
+
+}
+
+p {
+    font: size 20px;
+}
+
+button{
+    padding: 10px;
+    margin: 5px;
+    color: rgb(120, 34, 160);
+    border: none;
+    border-radius: 5px;
+    cursor:pointer;
+
+}
+
+#rojo{
+    background-color:rgb(214, 178, 58)
+
+}
+
+#azul{
+    background-color: lightblue;
+
+}
+
+#verde{
+    background-color: lightgreen;
+}
+
+
+    
